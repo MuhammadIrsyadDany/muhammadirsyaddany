@@ -29,7 +29,7 @@ const irsyad = {
   username:   "MuhammadIrsyadDany",
   location:   "Indonesia 🇮🇩",
   role:       "Fullstack Developer",
-  focus:      ["Frontend", "Backend", "Mobile"],
+  focus:      ["Frontend", "Backend"],
   passion:    "Turning ideas into elegant, functional software",
   currentlyLearning: ["System Design", "TypeScript Advanced Patterns"],
   funFact:    "I debug with console.log and I'm not ashamed 😅",
