@@ -35,6 +35,7 @@
 📖 &nbsp;**Learning** &nbsp;&nbsp;→ System Design & TypeScript Advanced  
 🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Learning Frontend & Backend    
 
+---
 
 ## 🛠️ Tech Stack
 
