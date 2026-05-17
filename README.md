@@ -1,139 +1,128 @@
 <div align="center">
 
-<!-- Futuristic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a1a,40:1a1a4e,70:0d2137,100:0a0a1a&height=220&section=header&text=Muhammad%20Irsyad%20Dany&fontSize=40&fontColor=e0f2fe&fontAlignY=45&fontAlign=70&desc=Fullstack%20Developer%20✦%20Indonesia&descAlignY=65&descAlign=70&descSize=15&descColor=7dd3fc&animation=fadeIn"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Irsyad%20Dany&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Builder%20of%20Ideas&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<!-- Futuristic Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=✦+Crafting+elegant+digital+experiences;✦+PHP+·+Laravel+·+React+·+Next.js+·+Kotlin;✦+From+idea+to+production%2C+end-to-end;✦+Based+in+Indonesia+🇮🇩;✦+Open+to+collaborate+%26+innovate" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://github.com/MuhammadIrsyadDany">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Irsyad+%F0%9F%91%8B;Fullstack+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;PHP+%2B+Laravel+Enthusiast+%E2%9A%A1;React+%2F+Next.js+Craftsman+%F0%9F%8E%A8;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadIrsyadDany&style=flat-square&color=38bdf8&label=profile+views" />
-&nbsp;&nbsp;
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=MuhammadIrsyadDany&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
 <a href="https://github.com/MuhammadIrsyadDany?tab=followers">
-  <img src="https://img.shields.io/github/followers/MuhammadIrsyadDany?style=flat-square&color=38bdf8&labelColor=1e293b&label=followers"/>
+  <img src="https://img.shields.io/github/followers/MuhammadIrsyadDany?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-## ✦ &nbsp;About Me
+## 🧠 About Me
 
-<table>
-<tr>
-<td width="55%">
-
-```yaml
-profile:
-  name: Muhammad Irsyad Dany
-  username: MuhammadIrsyadDany
-  role: Fullstack Developer
-  location: Indonesia 🇮🇩
-
-focus:
-  - Frontend Development
-  - Backend Engineering
-  - Mobile (Android)
-
-currently:
-  learning: System Design & Clean Architecture
-  building: Something meaningful ✨
-
-contact: irsyadnny09@gmail.com
+```javascript
+const irsyad = {
+  name:       "Muhammad Irsyad Dany",
+  username:   "MuhammadIrsyadDany",
+  location:   "Indonesia 🇮🇩",
+  role:       "Fullstack Developer",
+  focus:      ["Frontend", "Backend", "Mobile"],
+  passion:    "Turning ideas into elegant, functional software",
+  currentlyLearning: ["System Design", "TypeScript Advanced Patterns"],
+  funFact:    "I debug with console.log and I'm not ashamed 😅",
+};
 ```
 
-</td>
-<td width="45%" align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrsyadDany&layout=donut&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=e0f2fe&langs_count=6"/>
+## 🛠️ Tech Stack
 
-</td>
-</tr>
-</table>
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-## ✦ &nbsp;Tech Stack
+## 📊 GitHub Stats
 
 <div align="center">
 
-**❯ &nbsp;Frontend**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadIrsyadDany&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIrsyadDany&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=8B8B8B" />
 
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=next.js&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=fbbf24)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
-
-**❯ &nbsp;Backend**
-
-![PHP](https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=a78bfa)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=flat-square&logo=laravel&logoColor=fb7185)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=node.js&logoColor=4ade80)
-
-**❯ &nbsp;Mobile**
-
-![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=fb923c)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=flat-square&logo=kotlin&logoColor=a78bfa)&nbsp;
-![Android](https://img.shields.io/badge/Android-0f172a?style=flat-square&logo=android&logoColor=4ade80)
-
-**❯ &nbsp;Tools & Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=38bdf8)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=7dd3fc)&nbsp;
-![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=fb7185)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=38bdf8)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visual-studio-code&logoColor=38bdf8)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrsyadDany&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8" />
 
 </div>
 
 ---
 
-## ✦ &nbsp;GitHub Stats
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadIrsyadDany&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadIrsyadDany&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadIrsyadDany&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=38bdf8&text_color=e0f2fe&rank_icon=github&ring_color=38bdf8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIrsyadDany&theme=transparent&hide_border=true&background=0f172a&stroke=1e3a5f&ring=38bdf8&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=e0f2fe&dates=64748b&sideNums=7dd3fc" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-irsyad-dany-77515825a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rsydanyy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irsyadnny09@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
 ---
 
-## ✦ &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadIrsyadDany&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
----
-
-## ✦ &nbsp;Contribution
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadIrsyadDany&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=e0f2fe&area=true&area_color=1e3a5f&hide_border=true&radius=6" />
-</div>
-
----
-
-## ✦ &nbsp;Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/muhammad-irsyad-dany-77515825a/)
-[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=f472b6)](https://instagram.com/MuhammadIrsyadDany)
-[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=fb7185)](mailto:irsyadnny09@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=e0f2fe)](https://yourportfolio.com)
-
-<br/>
-
+<!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/MuhammadIrsyadDany/MuhammadIrsyadDany/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0a1a,40:0d2137,70:1a1a4e,100:0a0a1a&height=100&section=footer&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
