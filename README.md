@@ -33,7 +33,7 @@
 📧 &nbsp;**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ irsyadnny09@gmail.com  
 💼 &nbsp;**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Open to opportunities  
 📖 &nbsp;**Learning** &nbsp;&nbsp;→ System Design & TypeScript Advanced  
-🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Learning Frontend & Backend    
+🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Frontend & Backend    
 
 ---
 
