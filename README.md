@@ -23,35 +23,28 @@
 
 ## 🧠 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h3>👋 Muhammad Irsyad Dany</h3>
-      <p><b>Fullstack Developer</b> · 🇮🇩 Gresik, East Java, Indonesia</p>
-      <blockquote>
-        <i>Passionate fullstack developer who loves building elegant, functional software — from pixel-perfect frontends to robust backends. I turn ideas into real products.</i>
-      </blockquote>
-      <p>
-        📍 &nbsp;Gresik, East Java, Indonesia<br/>
-        📧 &nbsp;irsyadnny09@gmail.com<br/>
-        💼 &nbsp;Open to opportunities<br/>
-        📖 &nbsp;Currently learning: System Design & TypeScript Advanced Patterns
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel%20%2F%20PHP-90%25-7F77DD?style=flat-square&labelColor=1a1a2e"/>
-        <img src="https://img.shields.io/badge/React%20%2F%20Next.js-82%25-1D9E75?style=flat-square&labelColor=1a1a2e"/>
-        <br/>
-        <img src="https://img.shields.io/badge/TypeScript-75%25-378ADD?style=flat-square&labelColor=1a1a2e"/>
-        <img src="https://img.shields.io/badge/Kotlin%20%2F%20Java-70%25-D85A30?style=flat-square&labelColor=1a1a2e"/>
-      </p>
-    </td>
-    <td valign="top" width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIrsyadDany&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" width="100%"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/💼%20Status-Open%20to%20Work-1D9E75?style=for-the-badge&labelColor=1a1a2e"/>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 👋 Halo, saya Irsyad!
+
+> *"Passionate fullstack developer who loves building elegant, functional software — from pixel-perfect frontends to robust backends. I turn ideas into real products."*
+
+📍 &nbsp;**Location** &nbsp;&nbsp;&nbsp;→ Kediri, East Java, Indonesia  
+📧 &nbsp;**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ irsyadnny09@gmail.com  
+💼 &nbsp;**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Open to opportunities  
+📖 &nbsp;**Learning** &nbsp;&nbsp;→ System Design & TypeScript Advanced  
+🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Frontend · Backend · Mobile  
+
+<br/>
+
+**🚀 Skill Level**
+
+![Laravel](https://img.shields.io/badge/Laravel%20%2F%20PHP-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%2090%25-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=1a1a2e)  
+![React](https://img.shields.io/badge/React%20%2F%20Next.js-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%2082%25-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2075%25-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)  
+![Kotlin](https://img.shields.io/badge/Kotlin%20%2F%20Java-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2070%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=1a1a2e)
+
+<br clear="right"/>
 
 ---
 
@@ -125,7 +118,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-irsyad-dany-77515825a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rsydanyy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MuhammadIrsyadDany)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irsyadnny09@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
