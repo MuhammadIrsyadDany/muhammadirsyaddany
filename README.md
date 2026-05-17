@@ -21,19 +21,37 @@
 
 ---
 
-## 🧠 About Me
+## 🖥️ About Me
 
-```javascript
-const irsyad = {
-  name:       "Muhammad Irsyad Dany",
-  username:   "MuhammadIrsyadDany",
-  location:   "Indonesia 🇮🇩",
-  role:       "Fullstack Developer",
-  focus:      ["Frontend", "Backend", "Mobile"],
-  passion:    "Turning ideas into elegant, functional software",
-  currentlyLearning: ["System Design", "TypeScript Advanced Patterns"],
-  funFact:    "I debug with console.log and I'm not ashamed 😅",
-};
+```zsh
+┌──────────────────────────────────────────────────────────┐
+│                  irsyad@portfolio ~ zsh                  │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  $ whoami                                                │
+│  > Muhammad Irsyad Dany — Fullstack Developer 🚀         │
+│                                                          │
+│  $ cat about.json                                        │
+│  {                                                       │
+│    "role"     : "Fullstack Developer",                   │
+│    "backend"  : ["PHP", "Laravel", "Node.js"],           │
+│    "frontend" : ["React", "Next.js", "TypeScript"],      │
+│    "mobile"   : ["Kotlin", "Java", "Android"],           │
+│    "location" : "Indonesia 🇮🇩",                         │
+│    "learning" : ["System Design", "TS Advanced"],        │
+│    "available": true                                     │
+│  }                                                       │
+│                                                          │
+│  $ echo $PASSION                                         │
+│  > "Turning ideas into elegant, functional software"     │
+│                                                          │
+│  $ echo $FUN_FACT                                        │
+│  > "I debug with console.log and I'm not ashamed 😅"     │
+│                                                          │
+│  $ git log --oneline -1                                  │
+│  > a1b2c3d Always building, always learning ✨           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -108,7 +126,7 @@ const irsyad = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-irsyad-dany-77515825a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rsydanyy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MuhammadIrsyadDany)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irsyadnny09@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
