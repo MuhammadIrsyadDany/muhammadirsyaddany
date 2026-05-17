@@ -29,22 +29,11 @@
 
 > *"Passionate fullstack developer who loves building elegant, functional software — from pixel-perfect frontends to robust backends. I turn ideas into real products."*
 
-📍 &nbsp;**Location** &nbsp;&nbsp;&nbsp;→ Kediri, East Java, Indonesia  
+📍 &nbsp;**Location** &nbsp;&nbsp;&nbsp;→ Gresik, East Java, Indonesia  
 📧 &nbsp;**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ irsyadnny09@gmail.com  
 💼 &nbsp;**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Open to opportunities  
 📖 &nbsp;**Learning** &nbsp;&nbsp;→ System Design & TypeScript Advanced  
-🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Frontend · Backend · Mobile  
-
-<br/>
-
-**🚀 Skill Level**
-
-![Laravel](https://img.shields.io/badge/Laravel%20%2F%20PHP-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%2090%25-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=1a1a2e)  
-![React](https://img.shields.io/badge/React%20%2F%20Next.js-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%2082%25-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1a2e)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2075%25-007ACC?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)  
-![Kotlin](https://img.shields.io/badge/Kotlin%20%2F%20Java-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2070%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=1a1a2e)
-
-<br clear="right"/>
+🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Frontend · Backend    
 
 ---
 
@@ -118,7 +107,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-irsyad-dany-77515825a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MuhammadIrsyadDany)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rsydanyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irsyadnny09@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
